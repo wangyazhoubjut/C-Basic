@@ -38,6 +38,12 @@
     <ClCompile Include="20200714.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="20200717.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20200720.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="C++BasicSolution.rc">
